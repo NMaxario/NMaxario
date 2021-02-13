@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMaxario
 - 👀 I’m interested in javascript programming language 
-- 🌱 I’m currently learning more advanced parts of javadcript 
+- 🌱 I’m currently learning more advanced parts of javascript 
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
